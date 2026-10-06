@@ -1,117 +1,107 @@
-# 👋 Hi, I'm Isaac Kigen
+# ðŸ‘‹ Hi, I'm **Isaac Kigen**
 
-### Software Developer · AI Agent Engineering · Backend Systems
+### **Software Developer Â· AI Agent Engineering Â· Backend Systems**
 
-I’m a Computer Science graduate and software developer interested in building
-**AI-powered software, developer tools, backend systems, and automation**.
+Iâ€™m a Computer Science graduate and software developer focused on building **AI-powered software, developer tools, backend systems, and automation**.
 
-I enjoy working on systems where software doesn't just execute predefined
-instructions, but can **understand a task, use tools, interact with systems,
-execute workflows, test results, and recover from failures**.
+I enjoy turning complex problems into working systems and building software that can **understand tasks, use tools, interact with real systems, execute workflows, test results, and recover from failures**.
 
 ---
 
-## 🧠 What I Build
+## ðŸš€ What I Build
 
-### 🤖 AI Agents & LLM Systems
-Building applications around large language models, tool execution,
-automation, multi-provider orchestration, and real-world task execution.
-
-### 🛠️ Developer Tools
-Building software-engineering tools that can understand codebases,
-modify code, execute commands, run tests, debug failures, and work with
-development workflows.
-
-### ⚙️ Backend Systems
-Designing APIs, business logic, authentication, database systems,
-integrations, and service-oriented applications.
-
-### 🌐 Automation & Web Systems
-Building systems that interact with APIs, browsers, external services,
-and software environments to automate complex workflows.
-
-### 🎙️ Real-Time AI
-Experimenting with real-time conversational systems, streaming audio,
-WebSockets, structured AI interactions, and interactive interfaces.
+- ðŸ¤– **AI Agents & LLM Applications** â€” tool-using agents, LLM integrations, automation, and multi-provider AI systems
+- ðŸ› ï¸ **Developer Tools** â€” software that can understand, modify, test, debug, and manage real codebases
+- âš™ï¸ **Backend Systems** â€” APIs, business logic, authentication, databases, and service integrations
+- ðŸŒ **Automation & Web Systems** â€” browser automation, API workflows, and software integrations
+- ðŸŽ™ï¸ **Real-Time AI** â€” conversational systems, streaming audio, WebSockets, and interactive AI applications
 
 ---
 
-## 🚀 Featured Work
+## ðŸ¤– Advanced AI Coding Agent
 
-### 🤖 Advanced AI Coding Agent
+One of my main projects is an autonomous software-engineering agent designed to work with **real software projects**, not simply generate code.
 
-An autonomous software-engineering agent designed to work with real
-software projects rather than simply generate code.
-
-The system can:
+It can:
 
 - Explore and understand existing codebases
-- Inspect project structure and dependencies
+- Inspect project structure, symbols, dependencies, and architecture
 - Read, create, modify, and refactor code
 - Execute terminal commands and manage processes
 - Use code intelligence and LSP capabilities
 - Run tests and analyze failures
-- Perform debugging and iterative fixes
-- Run static analysis and security tooling
+- Debug problems and iteratively apply fixes
+- Perform static analysis and security scanning
 - Work with Git repositories and development workflows
 - Interact with websites through browser automation
 - Orchestrate multiple LLM providers
 - Maintain project context and long-running task state
-- Support sandboxed execution and deployment workflows
+- Support sandboxed execution
+- Support deployment and monitoring workflows
 
-**Focus:** AI agents · tool use · software engineering automation ·
-LLM orchestration · developer tooling
+The project is focused on a simple idea:
 
----
-
-### 🎙️ NEON — Real-Time Voice AI
-
-A real-time conversational AI application combining voice interaction,
-streaming communication, WebSockets, structured tool interaction,
-persistent conversation data, and an interactive visual interface.
-
-**Focus:** conversational AI · voice agents · WebSockets · streaming audio ·
-real-time applications
+> **Give an AI the tools required to actually perform software-engineering work.**
 
 ---
 
-### 🏦 PesaBank
+## ðŸŽ™ï¸ NEON â€” Real-Time Voice AI
 
-A modular banking platform built with a **Spring Boot backend** and
-**Next.js frontend**.
+A real-time conversational AI application combining:
 
-The project focuses on backend architecture, authentication,
-authorization, financial accounts, transactions, database persistence,
-API design, and business logic.
+- Voice interaction
+- Streaming audio
+- WebSockets
+- AI agent interaction
+- Structured tool/function interaction
+- Persistent conversation data
+- Interactive visual feedback
 
-**Focus:** Java · Spring Boot · Next.js · PostgreSQL · REST APIs ·
-authentication · backend architecture
-
----
-
-### 🎫 ICT Service Request System
-
-A Django-based service management system designed to manage service
-requests, technician assignment, scheduling, role-based access,
-API integrations, monitoring, and reporting.
-
-**Focus:** Python · Django · REST APIs · databases · RBAC ·
-business process automation
+The project explores how conversational AI can move beyond text into **real-time, interactive software experiences**.
 
 ---
 
-## 🧰 Technical Skills
+## ðŸ¦ PesaBank
 
-### Languages
+A modular banking platform built with a **Spring Boot backend** and **Next.js frontend**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+The project focuses on:
 
-### AI & Agent Engineering
+- Backend architecture
+- Authentication and authorization
+- User and role management
+- Accounts
+- Transactions
+- Database persistence
+- REST APIs
+- Business logic
+- Error handling
+- Application configuration
+
+**Technologies:** Java Â· Spring Boot Â· Next.js Â· TypeScript Â· PostgreSQL
+
+---
+
+## ðŸŽ« ICT Service Request System
+
+A Django-based service management system designed to manage technical service workflows.
+
+Features include:
+
+- Service request management
+- Technician assignment
+- Scheduling
+- Role-based access control
+- API integrations
+- Monitoring
+- Reporting
+- Database persistence
+
+**Technologies:** Python Â· Django Â· Django REST Framework Â· SQL
+
+---
+
+## ðŸ§  AI & Agent Engineering
 
 - LLM application development
 - AI agents
@@ -122,38 +112,17 @@ business process automation
 - AI workflow automation
 - Agent task execution
 - Model integration and evaluation
+- Autonomous software-engineering workflows
 
-### Backend & Web
+---
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+## ðŸ’» Software Engineering
 
-- REST APIs
 - Backend architecture
-- Authentication & authorization
-- API integrations
-- WebSockets
-- Async workflows
-- Business logic
+- REST API development
+- Authentication and authorization
 - Database-driven applications
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-- PostgreSQL
-- MySQL
-- SQLite
-- Supabase
-- Database design
-- Data persistence
-
-### Software Engineering & Developer Tooling
-
-- Git & GitHub
+- Asynchronous workflows
 - Code analysis
 - LSP integration
 - AST/code intelligence
@@ -163,68 +132,130 @@ business process automation
 - Static analysis
 - Security scanning
 - Process management
+- Git-based development
 - Browser automation
 
-### Infrastructure
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## ðŸ› ï¸ Technology
 
-- Linux
-- Docker
+### Languages
+
+Python Â· Java Â· TypeScript Â· JavaScript Â· SQL
+
+### Frameworks & Platforms
+
+Spring Boot Â· Django Â· Next.js Â· Flutter
+
+### Databases
+
+PostgreSQL Â· MySQL Â· SQLite Â· Supabase
+
+- Database design and persistence
+
+### Infrastructure & Development
+
+Linux Â· Docker Â· Git Â· GitHub
+
 - VPS environments
 - Process execution
 - Deployment workflows
 - Networking
 - WebSockets
-- Git-based development
+- API integrations
 
 ---
 
-## 🔬 Engineering Interests
+## ðŸ”¬ Engineering Interests
 
-I’m particularly interested in:
+Iâ€™m particularly interested in:
 
 - Autonomous AI agents
 - AI-assisted software engineering
 - LLM tool use and orchestration
 - Developer productivity systems
 - Backend architecture
-- Distributed and real-time systems
+- Real-time systems
 - Software automation
 - AI evaluation
 - System reliability
-- Quantitative and data-driven software systems
+- Data-driven software systems
 
 ---
 
-## 🎓 Background
+## ðŸŽ“ Education
 
-**BSc Computer Science — Masinde Muliro University of Science and Technology**
+**BSc Computer Science**  
+**Masinde Muliro University of Science and Technology (MMUST)**
 
-Graduated: **December 2025**
+**Graduated: December 2025**
 
-My academic background includes software engineering, algorithms and data
-structures, databases, operating systems, computer networks, programming,
-systems analysis, and software architecture.
+Relevant areas include:
+
+- Software Engineering
+- Algorithms & Data Structures
+- Database Systems
+- Computer Networks
+- Operating Systems
+- Programming
+- Systems Analysis
+- Software Architecture
 
 ---
 
-## 📌 Currently Building
+## ðŸ”­ Current Direction
 
-I’m focused on building software that combines:
+Iâ€™m focused on building software where:
 
 ```text
 AI
- +
+  â†“
+Reasoning
+  â†“
 Tools
- +
-Code
- +
-APIs
- +
-Automation
- +
-Real Systems
+  â†“
+Code / APIs / Systems
+  â†“
+Execution
+  â†“
+Testing
+  â†“
+Feedback
+  â†“
+Improvement
+```
+
+The goal is to move beyond AI that only produces responses toward systems that can **reason about a task, select and use tools, execute actions, validate results, and participate in real software workflows**.
+
+---
+
+## ðŸ¤ Open To
+
+Iâ€™m interested in opportunities involving:
+
+- Software Engineering
+- AI Agent Engineering
+- Backend Development
+- LLM Applications
+- Developer Tools
+- Automation
+- API & Systems Integration
+- Real-World AI Applications
+
+---
+
+## ðŸ“« Contact
+
+ðŸ“§ **Email:** isaackigen86@gmail.com
+
+ðŸ’¼ **LinkedIn:** [Isaac Kigen](https://ke.linkedin.com/in/isaac-kigen-kiputug)
+
+---
+
+## ðŸ§© Engineering Philosophy
+
+> **Build. Debug. Improve. Repeat.**
+
+---
+
+â­ **Thanks for visiting my profile.**
